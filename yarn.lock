@@ -1306,10 +1306,10 @@
     "@ethersproject/properties" "^5.5.0"
     "@ethersproject/strings" "^5.5.0"
 
-"@heroicons/react@^1.0.5":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@heroicons/react/-/react-1.0.5.tgz#2fe4df9d33eb6ce6d5178a0f862e97b61c01e27d"
-  integrity sha512-UDMyLM2KavIu2vlWfMspapw9yii7aoLwzI2Hudx4fyoPwfKfxU8r3cL8dEBXOjcLG0/oOONZzbT14M1HoNtEcg==
+"@heroicons/react@^2.0.3":
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/@heroicons/react/-/react-2.0.3.tgz#a5665973741b8fc607c8cd8b86febd501a91824e"
+  integrity sha512-PQbvWrLewSw1zCq6rlsUuFFWPRd1LxqC63hhRXzBPY/hLoO0mjNa2VMaVKq2BaTpi2p4iNuZAQxRlNHyhr1xnw==
 
 "@humanwhocodes/config-array@^0.9.2":
   version "0.9.5"
